@@ -1,2 +1,2 @@
-This is message on the main branch
+This is message on the main branch | This should create a conflict from feature1
 This message is from feature2 branch
