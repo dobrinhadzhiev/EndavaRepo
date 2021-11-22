@@ -1,2 +1,2 @@
 This is message on the main branch
-This message is from feature2 branch
+This message is from feature2 branches
