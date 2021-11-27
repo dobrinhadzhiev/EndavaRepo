@@ -1,0 +1,13 @@
+C:\Users\Dobrin\source\repos\Proj_Dobri\bin\Debug\netcoreapp3.1\Proj_Dobri.exe
+C:\Users\Dobrin\source\repos\Proj_Dobri\bin\Debug\netcoreapp3.1\Proj_Dobri.deps.json
+C:\Users\Dobrin\source\repos\Proj_Dobri\bin\Debug\netcoreapp3.1\Proj_Dobri.runtimeconfig.json
+C:\Users\Dobrin\source\repos\Proj_Dobri\bin\Debug\netcoreapp3.1\Proj_Dobri.runtimeconfig.dev.json
+C:\Users\Dobrin\source\repos\Proj_Dobri\bin\Debug\netcoreapp3.1\Proj_Dobri.dll
+C:\Users\Dobrin\source\repos\Proj_Dobri\bin\Debug\netcoreapp3.1\Proj_Dobri.pdb
+C:\Users\Dobrin\source\repos\Proj_Dobri\obj\Debug\netcoreapp3.1\Proj_Dobri.csproj.AssemblyReference.cache
+C:\Users\Dobrin\source\repos\Proj_Dobri\obj\Debug\netcoreapp3.1\Proj_Dobri.AssemblyInfoInputs.cache
+C:\Users\Dobrin\source\repos\Proj_Dobri\obj\Debug\netcoreapp3.1\Proj_Dobri.AssemblyInfo.cs
+C:\Users\Dobrin\source\repos\Proj_Dobri\obj\Debug\netcoreapp3.1\Proj_Dobri.csproj.CoreCompileInputs.cache
+C:\Users\Dobrin\source\repos\Proj_Dobri\obj\Debug\netcoreapp3.1\Proj_Dobri.dll
+C:\Users\Dobrin\source\repos\Proj_Dobri\obj\Debug\netcoreapp3.1\Proj_Dobri.pdb
+C:\Users\Dobrin\source\repos\Proj_Dobri\obj\Debug\netcoreapp3.1\Proj_Dobri.genruntimeconfig.cache
